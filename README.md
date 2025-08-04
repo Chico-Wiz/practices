@@ -1,1 +1,1 @@
-# practices
+# practices stores various prjects self realized used for my self learning of web development.
