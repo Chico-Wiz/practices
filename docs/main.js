@@ -9,3 +9,4 @@ burger.addEventListener('click', () => {
   // Optional: toggle burger icon between ☰ and ✖
   burger.innerHTML = nav.classList.contains('active') ? '&times;' : '&#9776;';
 });
+// Moved to docs folder
